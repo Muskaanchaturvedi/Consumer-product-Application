@@ -15,7 +15,7 @@ import java.util.Date;
 
 @Service
 public class TokenService {
-    public static final String token_secret = "dfghsdDSF324dfsafsda";
+    public static final String token_secret = "muskaan-nineleaps";
 
     // Creating a token
     public String createToken(ObjectId userId) {
